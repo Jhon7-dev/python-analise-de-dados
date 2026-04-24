@@ -26,3 +26,11 @@ for valor in range(1,11):
      quadrado = valor**2
      quadrados.append(quadrado)
 print(quadrados)
+
+# list comprehension 
+# combina a criação de laço for e criação de novos elementos em um linha e concatena cada novo elemento automaticamente
+
+cubos = [valor**3 for valor in range(2,11)]
+print(cubos)
+
+#  para essa sintaxe, comece com um nome descritivo para a lista, por exemplo, cubos.
