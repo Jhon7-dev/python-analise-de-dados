@@ -16,4 +16,3 @@ while True:
      info = {'nome do grupo_cantor: ': nome_cantor,'nome do album: ' : nome_album}
      print (info)
 
-     
