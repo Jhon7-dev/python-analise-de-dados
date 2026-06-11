@@ -105,3 +105,6 @@ total = 0
 for i in primos:
      total+=i
      print(total)
+     
+valores = [-3,8,4,12,3132,10]
+print(valores)
